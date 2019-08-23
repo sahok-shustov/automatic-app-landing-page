@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Divinations & Astrology                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Thousands of people trust one of the best divination application. \nThis original application for those who need to make a decision and need some help. You will receive actual, individual divinations that cannot be found in any other place. \nThis app will help you to understand what is actually happening in your personal life, relationships and work.
+app_description                           : Thousands of people trust one of the best divination application. This original application for those who need to make a decision and need some help. You will receive actual, individual divinations that cannot be found in any other place. This app will help you to understand what is actually happening in your personal life, relationships and work.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
